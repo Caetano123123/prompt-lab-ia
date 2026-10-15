@@ -1,0 +1,15 @@
+PROMPT LAB — MOTION GRAPHICS
+
+Vídeo: prompt-lab-motion-1080x1920-60fps.mp4
+30 segundos • 1080 × 1920 • 60 fps • H.264 / yuv420p • AAC estéreo
+
+Código: render_prompt_lab.py
+Requer Python 3, Pillow, NumPy, FFmpeg e fonte DejaVu Sans Mono.
+Para renderizar novamente: python render_prompt_lab.py
+
+Batida eletrônica original sintetizada em código, 120 BPM. Sem locução.
+Logo de terminal redesenhado vetorialmente com >_.
+Roteiro: 0–5s gancho; 5–10s Prompt Lab; 10–14s terminal;
+14–20s ebook R$19,90; 20–26s ebook R$24,90; 26–30s Link na bio.
+
+Os arquivos das páginas existentes e o vídeo anterior foram preservados.
