@@ -1,0 +1,6 @@
+sem-data-1-feed: A Black Avançada chegou. Acesso vitalício à Formação Nutrição Avançada, com condições especiais. Toque no link e conheça.
+sem-data-2-story: A Black Avançada está chegando. Condições especiais para você. Fique de olho!
+data-0411-1-feed: Live da Black dia 04/11. Aula ao vivo com o Prof. Ney Felipe. Marque na agenda!
+data-0411-2-story: AO VIVO dia 04/11. Conteúdo prático de nutrição para o consultório. Não fique de fora!
+data-1111-1-feed: Live da Black dia 11/11 às 20h. Aula ao vivo com o Prof. Ney Felipe. Salve a data!
+data-1111-2-story: AO VIVO 11/11 às 20h. Conteúdo prático de nutrição para o consultório. Te espero lá!
